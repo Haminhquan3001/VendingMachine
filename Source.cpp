@@ -511,8 +511,7 @@ Transaction occured at:
 		21:23:12
 		21:23:12
 
-D:\CIS 22 B\Assignment 4\Assignment 4\Debug\Assignment 4.exe (process 38232)
-exited with code 0.
+Project exited with code 0.
 Press any key to close this window . . .
 
 
